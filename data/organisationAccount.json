@@ -1,0 +1,13 @@
+[
+    {
+        "email":"test@test.com",
+        "panNumber":"ABCTY1234D",
+        "cinNumber":"L17110MH1973PLC019786",
+        "isVerified":true,
+        "carbonCredits":0,
+        "otp":1234,
+        "report":{
+
+        }
+    }
+]

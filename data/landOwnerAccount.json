@@ -1,0 +1,15 @@
+[
+    {
+        "email":"abc@abc.com",
+        "mobileNumber":1234567890,
+        "aadharNumber":"3675 9834 6012",
+        "slashWallet":50,
+        "landId":[
+            "507f1f77bcf86cd799439011",
+            "507f1f77bcf86cd799439011"
+        ],
+        "isRegistered":true,
+        "isVerified":true,
+        "otp":0
+    }
+]

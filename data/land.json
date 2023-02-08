@@ -1,0 +1,37 @@
+[
+    {
+        "ownerId":"507f1f77bcf86cd799439011",
+        "wallet":100,
+        "fraction":0.5,
+        "address":{
+            "state":"Rajasthan",
+            "district":"Sikar",
+            "tehsil":"Karad",
+            "ri":"Karad",
+            "halkas":"Karad",
+            "village":"Karad",
+            "plotNo":"231"
+        },
+        "area":"3.1",
+        "vertices":[
+            {
+                "lat":"13.4134995",
+                "long":"45.792650"
+            },
+            {
+                "lat":"-79.132557",
+                "long":"-40.995129"
+            },
+            {
+                "lat":"47.244262",
+                "long":"80.880444"
+            },
+            {
+                "lat":"18.6986795",
+                "long":"-17.160223"
+            }
+        ],
+        "isRegistered":"true"
+
+    }
+]
